@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [v1.1.0]
+- Here we go again with another release
+
+
+
 ## [v1.0.0]
 - Amazing new test release, people!
 
@@ -61,7 +66,8 @@ fixed build upload
 ### Added
 - Initial creation
 
-[Unreleased]: https://github.com/Comcast/caduceus/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Comcast/caduceus/compare/v1.1.0...HEAD
+[v1.1.0]: https://github.com/Comcast/caduceus/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/Comcast/caduceus/compare/v0.1.5...v1.0.0
 [v0.1.5]: https://github.com/Comcast/caduceus/compare/v0.1.4...v0.1.5
 [v0.1.4]: https://github.com/Comcast/caduceus/compare/v0.1.3...v0.1.4
